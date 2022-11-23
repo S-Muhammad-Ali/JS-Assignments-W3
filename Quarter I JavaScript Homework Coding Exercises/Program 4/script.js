@@ -1,0 +1,1 @@
+console.log('“Prophet Muhammad SAW said: “There will come a time when holding on to your Deen will be like holding on to hot Coals”');
